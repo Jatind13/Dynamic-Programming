@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int arr[]={2,3,7,8,10};
-   int sum=98;
+   int sum=10;
    //approach is as same and simple as knapsack with some variations in matrix.
     int n= sizeof(arr)/sizeof(arr[0]);
     bool t[n+1][sum+1];
