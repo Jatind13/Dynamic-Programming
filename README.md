@@ -16,3 +16,4 @@ you can choose any method between 2 and 3 both have the same time complexity.
 
 COUNT SUBSETS WITH GIVEN DIFF->
 ![WhatsApp Image 2021-10-07 at 8 06 10 PM](https://user-images.githubusercontent.com/85898282/136406610-f7d804a0-4b77-4892-8768-ff843365459b.jpeg)
+UNBOUNDED NAPSACK->Same as (0-1) Knapsack the difference is only that the supply of items in unbounded kanpasack is unlimited.
