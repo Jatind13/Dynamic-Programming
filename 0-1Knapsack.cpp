@@ -11,7 +11,7 @@ int knapsack(int wt[],int val[],int w,int n,int t[][1002])
     else if(wt[n-1]<=w)
     {
         return t[n][w]=max(val[n-1]+knapsack(wt,val,w-wt[n-1],n-1,t), knapsack(wt,val,w,n-1,t));
-    }
+    }  //memoization.
 
     else
     {

@@ -32,9 +32,9 @@ int subsetSum(int a[], int n, int sum)
 
 int main()
 {
-	int n = 4;
-	int a[] = {3,3,3,3};
-	int sum = 6;
+	int n = 6;
+	int a[] = {2,3,5,6,8,10};
+	int sum = 10;
 
 	cout << (subsetSum(a, n, sum));
 }
